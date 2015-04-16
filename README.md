@@ -73,3 +73,7 @@ $ wc $(dirname $(750words -p))/2011-08-*
 ```
 
   [750 Words]: http://750words.com/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kevit/750words/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
